@@ -1,0 +1,1 @@
+<pad>key clinical messagea 32 year old male was recently discharged from hospital with complaint of left abdominal pain. on examination, <n> kidney biopsy was performed. <n> histology revealed chronic interstitial nephritis. <n> the patient was managed conservatively.</s>

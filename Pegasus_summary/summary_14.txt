@@ -1,0 +1,1 @@
+<pad>a 64 year old gentleman with a history of elevated prostate cancer, was diagnosed with prostate biopsy on right side, was diagnosed with prostate biopsy on left side and underwent radical prostatectomy 2012-01-20 left side. <n> patient tolerated the procedure well and was discharged home on postoperative day one. <n> he will follow up with in one to two weeks.</s>

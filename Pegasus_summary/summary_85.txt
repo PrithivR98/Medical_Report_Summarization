@@ -1,0 +1,1 @@
+<pad>key clinical messagea 78 year old speaking female presented with mental status changes. <n> she was diagnosed with type 2 diabetes mellitus. <n> she was treated with glucocorticosteroids, insulin and diazepam. <n> her mental status improved after treatment.</s>

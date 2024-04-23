@@ -1,0 +1,1 @@
+<pad>key clinical messagea man with a history of bipolar disorder was admitted to the hospital with an apparent suicide attempt. <n> he was found to have 2 empty bottles of geodonal medicine as well as 26 vials of chloramphenicol at bedside. <n> chloramphenicol can cause aspiration pneumonia.</s>

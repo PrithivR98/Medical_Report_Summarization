@@ -1,0 +1,1 @@
+<pad>key clinical messagepatient is 31 year old with stage 0 ovarian cancer for stage 2 ovarian cancer vs metastatic cancer line. <n> patient has no anxiety except except on left leg. <n> mountrin therapy was started on the left leg. <n> patient has no anxiety except on left leg.</s>

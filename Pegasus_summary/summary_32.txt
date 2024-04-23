@@ -1,0 +1,1 @@
+<pad>key clinical messagewe report the case of a 78-year - old man who presented with a 2-month history of dyspnea and chest pain. <n> chest x - ray revealed a large homogenous mass in the right upper pulmonary lobe, suggestive of pulmonary embolism. <n> further workup revealed that the mass was a pulmonary embolism.</s>

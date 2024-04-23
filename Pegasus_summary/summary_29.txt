@@ -1,0 +1,1 @@
+<pad>a 104 year old female patient with a history of chronic obstructive pulmonary disease presents with shortness of breath and cough. <n> patient states that she has had shortness of breath and cough for one day and denies any symptoms.</s>

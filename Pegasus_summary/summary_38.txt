@@ -1,0 +1,1 @@
+<pad>key clinical message 74 yo with lung cancer who presents with 1 day of substernal chest pain. <n> the pain resolved with morphine. <n> the patient denied vomiting of b. vision changes and dizziness were improved with morphine.</s>

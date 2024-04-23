@@ -1,0 +1,18 @@
+Mr.  Mackey also had signs and symptoms consistent with cervical myelopathy ; a cervical MRI scan showed very impressive disc herniations at C5-C6 , less so at C4-C5 , with clear cut cord compression , particularly on the right side C5-C6 . He has a history of peripheral neuropathy , kidney transplantation in 2003 secondary to diabetic nephropathy , as well as throat cancer in 2004 treated with local resection and radical neck dissection on the left as well as postoperative radiation .
+
+While in the PACU , Anesthesia was called because the patient became dyspneic and tachypneic and his SAO2 dropped to 89% . The etiology for his congestive heart failure was determined likely to be diastolic dysfunction from increased heart rate as well as excess volume . On the day of transfer , the patient was noted to be confused with waxing and waning sensorium ; thus , a delirium work-up was initiated looking for precipitants . He was admitted to the Surgical Intensive Care Unit where his respiratory and cardiac status was monitored carefully . Interoperatively , he was positive two liters with a stable blood pressure and heart rate , although requiring some neo-synephrine interoperatively . He responded to intravenous Lasix with 3.2 liters of urine output as well as marked clinical improvement . No definite evidence for significant myocardial ischemia , although cardiac enzymes were sent and he ruled out for myocardial infarction . He was also put on Lopressor 150 mg twice a day . He was given Lasix to continue to diurese the excess volume . His respiratory rate was 30 on face mask .
+
+myelopathy : No definition found
+herniations : rupture in smooth muscle tissue through which a bodily structure protrudes
+peripheral neuropathy : Peripheral neuropathy, often shortened to neuropathy, refers to damage or disease affecting the nerves.
+diabetic nephropathy : Diabetic neuropathy is various types of nerve damage associated with diabetes mellitus.
+throat cancer : Head and neck cancer develops from tissues in the lip and oral cavity (mouth), larynx (throat), salivary glands, nose, sinuses, or skin of the face.
+dyspneic : not breathing or able to breathe except with difficulty
+tachypneic : No definition found
+congestive heart failure : Heart failure (HF), also known as congestive heart failure (CHF), is a syndrome caused by an impairment in the heart's ability to fill with and pump blood.
+delirium : state of violent mental agitation
+neo-synephrine : No definition found
+Lasix : commonly used diuretic (trade name Lasix) used to treat hypertension and edema
+myocardial ischemia : Coronary artery disease (CAD), also called coronary heart disease (CHD), ischemic heart disease (IHD), myocardial ischemia, or simply heart disease, involves the reduction of blood flow to the cardiac muscle due to build-up of atherosclerotic plaque in the arteries of the heart.
+myocardial infarction : A myocardial infarction (MI), commonly known as a heart attack, occurs when blood flow decreases or stops in one of the coronary arteries of the heart, causing infarction (tissue death) to the heart muscle.
+Lopressor : beta blocker (trade name Lopressor) used in treating hypertension and angina and arrhythmia and acute myocardial infarction; has adverse side effects (depression and exacerbation of congestive heart failure etc.)

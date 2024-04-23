@@ -1,0 +1,1 @@
+<pad>key clinical messagewe report a case of a 65-year - old man who presented with hemoptysis. <n> prior to his presentation, he hurt his left knee while sitting. <n> he was unable to sit up or move for 3 days. <n> he was then transferred to the intensive care unit for further care. <n> hemoptysis should be considered in the differential diagnosis of hemoptysis.</s>

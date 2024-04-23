@@ -1,0 +1,1 @@
+<pad>key clinical messagea 42-year - old man presented with black stool, tarry stools, pain, and lightheadedness. <n> he had no family history. <n> his symptoms resolved after lightheadedness was reduced.</s>

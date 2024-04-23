@@ -1,0 +1,1 @@
+<pad>key clinical messagethe patient denies any previous pain, nausea or vomiting on breath pressure, orthopnea, or coronary artery disease. <n> the patient denies any previous episode of chest pain. <n> the patient denies any previous episode of shortness of breath.</s>

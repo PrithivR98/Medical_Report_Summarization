@@ -1,0 +1,1 @@
+<pad>key clinical messagea 40-year - old woman with a history of myocardial infarction presented with chest pain of unknown origin. <n> chest computed tomography ( ct ) revealed a large homogenous mass in the left upper quadrant. <n> ct - guided percutaneous coronary intervention ( pci ) was performed, and the patient's chest pain was relieved.</s>
